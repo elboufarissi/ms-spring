@@ -1,2 +1,11 @@
 Screenshots
 ![1](https://github.com/user-attachments/assets/2791903f-76ab-4ca1-99df-754755724498)
+![projection-test](https://github.com/user-attachments/assets/f7a94336-a9c6-4b92-9aae-2506fee26456)
+![product-service test](https://github.com/user-attachments/assets/73fb96fe-5884-46a6-8140-28158eb17d0b)
+![h2-customer](https://github.com/user-attachments/assets/f099df2a-9005-4ef5-8545-0db39e495818)
+![gateway-stat-product](https://github.com/user-attachments/assets/d9e56be6-0119-43cc-9781-03992f6b84cc)
+![gateway-stat](https://github.com/user-attachments/assets/42c98686-3965-49b1-895a-7458dc102480)
+![eureka-test](https://github.com/user-attachments/assets/ec6d20d9-8c96-4b11-a0ea-acc60ac80513)
+![dynamic-gateway-inventory](https://github.com/user-attachments/assets/a3e13f43-3192-43bd-947f-b57cfa054755)
+![dynamic-gateway-customer](https://github.com/user-attachments/assets/f72a1bbb-ce93-4af0-b933-16b70c4c0a2f)
+![discovery-service](https://github.com/user-attachments/assets/78bcbcb8-a1cb-48af-8afc-759e6eb48641)
